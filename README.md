@@ -13,7 +13,7 @@ I could enhance this code by ensuring that when a user adds an hour to the time,
 One challenging piece was the method function named, printMenu, because I had to create a loop that will print asterisks, whitespaces, and menu options. To help me with this project, I used Tutor.com to get online help from a tutor.  
 
 # What skills from this project will be particularly transferable to other projects or course work? 
-I think I will  ..
+I think writing code based off of a flowchart is a skill that is transferable to other projects because a flowchart is similarly used like pseudocode. It is good to plan out the logic before starting the coding process. 
 
 # How did you make this program maintainable, readable, and adaptable? 
-I used in-line comments and appropriate naming conventions, which is industry standard best practices, to make this program maintainable, readable, and adaptable. 
+I used in-line comments and appropriate naming conventions, which is industry standard best practices, to make this program maintainable, readable, and adaptable.       
