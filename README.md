@@ -1,7 +1,7 @@
 # Cplusplus-Program 
 
 # Summarize the project and what problem it was solving. 
-For the project, I created an object-oriented programming application for a website that has domestic and international clients. This app allows users to be able to view a 12-hour and 24-hour clock simultaneously. The user can also set and reset the time that is displayed on the clocks. The problem it was solving was that in order for this, it has to meet international standard ISO 8601.     
+For Project_One.cpp, I created an object-oriented programming application for a website that has domestic and international clients. This app allows users to be able to view a 12-hour and 24-hour clock simultaneously. The user can also set and reset the time that is displayed on the clocks. The problem it was solving was that in order for this, it has to meet international standard ISO 8601.     
 
 # What did you do particularly well? 
 I called method functions and utilized them well in the main function of the program. 
